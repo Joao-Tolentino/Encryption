@@ -1,0 +1,6 @@
+Encryption test hardcoded key, AES GCM encryption.
+
+Test Test
+123 123
+AAAAAAAAAAAAAAAAAAaAAAAAA
+.;/.>??

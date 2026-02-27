@@ -1,0 +1,5 @@
+!! TO encrypt file A and output file B, with key hardcoded
+cargo run -- encrypt file.A file.B
+
+!! TO decrypt file A and output file B, with same key hardcoded
+cargo run -- decrypt file.A file.B 
